@@ -169,6 +169,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 ### Mobile Application:
 
 - [Build a React Native Todo Application](https://egghead.io/courses/build-a-react-native-todo-application)
+- [Build a Fullstack Todo App With React Native](https://blog.hasura.io/tutorial-fullstack-react-native-with-graphql-and-authentication-18183d13373a)
 
 ### Web Applications:
 
@@ -186,7 +187,6 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Build A Simple Medium Clone using React.js and Node.js](https://codeburst.io/build-simple-medium-com-on-node-js-and-react-js-a278c5192f47)
 - [Integrate MailChimp in JS](https://medium.freecodecamp.org/how-to-integrate-mailchimp-in-a-javascript-web-app-2a889fb43f6f)
 - [Build A Chrome Extension with React + Parcel](https://medium.freecodecamp.org/building-chrome-extensions-in-react-parcel-79d0240dd58f)
-- [Build A ToDo App With React Native](https://blog.hasura.io/tutorial-fullstack-react-native-with-graphql-and-authentication-18183d13373a)
 - [Make a Chat Application](https://medium.freecodecamp.org/how-to-build-a-chat-application-using-react-redux-redux-saga-and-web-sockets-47423e4bc21a)
 - [Create a News App with React Native](https://medium.freecodecamp.org/create-a-news-app-using-react-native-ced249263627)
 - [Learn Webpack For React](https://medium.freecodecamp.org/learn-webpack-for-react-a36d4cac5060)
